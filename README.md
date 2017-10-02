@@ -1,3 +1,3 @@
 # PL1
 
-Exercises of the *_Programming Languages I_* course.
+Exercises of the _*Programming Languages I*_ course.
